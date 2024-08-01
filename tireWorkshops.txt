@@ -1,0 +1,6 @@
+14 Bury New Rd, Manchester
+Sõiduauto, Veoauto
+http://localhost:9004/api/v2/tire-change-times
+1A Gunton Rd, London
+Sõiduauto
+http://localhost:9003/api/v1/tire-change-times
